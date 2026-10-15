@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/github/downloads/geethut-stack/Gloam/total)](https://github.com/geethut-stack/Gloam/releases)
 [![License: MIT](https://img.shields.io/github/license/geethut-stack/Gloam)](LICENSE)
 
-The free, open-source, all-in-one monitor control and eye protection tool for Windows: brightness, dimmer and blue-light filter in one tiny tray app.
+# The free, open-source, all-in-one monitor control and eye protection tool for Windows: brightness, dimmer and blue-light filter in one tiny tray app.
 
 Gloam is a free and open-source Windows tray utility, written in [AutoHotkey v2](https://www.autohotkey.com/), that puts everything you need to control your screens and protect your eyes in one place:
 
