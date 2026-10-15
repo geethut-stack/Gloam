@@ -40,7 +40,7 @@ Left-click the tray icon (or press `Win+Alt+B`) to open a compact dark control p
 ## Installation
 
 1. Install AutoHotkey v2.
-2. Download `Gloam.ahk` from this repository [Releases](../../releases).
+2. Download `Gloam.ahk` or `Gloam.exe` from this repository [Releases](../../releases).
 3. Double-click it. A tray icon appears and the script is running.
 
 To start it with Windows, put a shortcut to the script in your Startup folder (`Win+R`, type `shell:startup`, press Enter).
